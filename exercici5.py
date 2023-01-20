@@ -11,3 +11,4 @@ areas[7] = 11
 print(areas)
 areas.extend(['pati interior', 2.78])
 print(areas)
+''' se imprimen todos los puntos, con sus modificaciones'''
